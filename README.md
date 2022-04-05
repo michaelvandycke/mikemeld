@@ -25,6 +25,12 @@ python3.10 -m pip install mysql-connector-python
 #Database
 see mysql_tables.txt to load the correct database scheme. 
 
+#Secret
+Secret file must be filled (secret.py)
+
+dbuser="yourdbuser"
+dbpass="yourdbpass"
+
 ## Usage
 
 You can add trackers: with -a flag and -c flag (to name the category).
