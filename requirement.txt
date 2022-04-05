@@ -1,0 +1,10 @@
+#Get Python 3 (3.8 is nice, get latest version) and pip updated
+
+#Mariadb
+yum install 
+
+#requests: pip library for curl requests
+python3 -m pip install requests
+
+#mysql-connector-python: pip library for mysql requests
+python3 -m pip install mysql-connector-python
